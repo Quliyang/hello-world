@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi,Humans!
+
+I'm here,my name is quliyang,I'm going to creat the first code!
